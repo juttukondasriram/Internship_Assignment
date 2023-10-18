@@ -1,0 +1,28 @@
+@import url(https://db.onlinewebfonts.com/c/15900cedef53ad2677e0b69df8490d06?family=SF+Compact+Text+Semibold);
+
+.before-signup-bg-container {
+  background-color: white;
+  padding: 100px;
+  font-family: SF Compact Text Semibold;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.building-image {
+  height: 175px;
+  width: 900px;
+}
+
+.before-heading {
+  color: #ff3333;
+  font-size: 45px;
+  font-weight: bold;
+  margin-top: 65px;
+}
+
+.before-paragraph {
+  color: #a9aca0;
+  font-size: 16px;
+}
