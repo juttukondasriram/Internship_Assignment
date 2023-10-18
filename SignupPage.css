@@ -1,0 +1,55 @@
+@import url(https://db.onlinewebfonts.com/c/15900cedef53ad2677e0b69df8490d06?family=SF+Compact+Text+Semibold);
+
+.signup-bg-container {
+  background-color: white;
+  padding: 100px;
+  font-family: SF Compact Text Semibold;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.paragraph {
+  color: #848484;
+  font-size: 16px;
+  text-align: center;
+}
+
+.label-element {
+  color: #c5c6c3;
+  font-size: 14px;
+  margin-bottom: 7px;
+}
+
+.input-element {
+  padding: 12px;
+  background-color: #40403f;
+  color: white;
+  font-size: 20px;
+  border-width: 0;
+  border-style: none;
+  margin-bottom: 15px;
+}
+
+.input-element-phone {
+  padding: 12px;
+  background-color: white;
+  color: white;
+  font-size: 20px;
+  border-width: 1;
+  border-style: solid;
+  border-color: black;
+  margin-bottom: 30px;
+}
+
+.before-button {
+  background-color: transparent;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #ff3333;
+  color: #ff3333;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 15px;
+  margin-top: 15px;
+}
